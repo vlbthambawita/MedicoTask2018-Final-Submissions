@@ -1,6 +1,8 @@
-[Paper](http://ceur-ws.org/Vol-2283/MediaEval_18_paper_20.pdf) 
+# The Medico-Task 2018: Disease Detection in the Gastrointestinal Tract using Global Features and Deep Learning
 
-[Presentation](https://www.youtube.com/watch?v=wRcPHkLPZho&list=PLOPRp1vNOG9bTZZECxb-qIZ2SINZ5TdQJ&index=4&t=0s)
+[Paper](http://ceur-ws.org/Vol-2283/MediaEval_18_paper_20.pdf) - Working note paper about this project
+
+[Presentation](https://www.youtube.com/watch?v=wRcPHkLPZho&list=PLOPRp1vNOG9bTZZECxb-qIZ2SINZ5TdQJ&index=4&t=0s) - Complete presentation
 
 
 # Instruction for running method 1 and 2 (Weka projects)
