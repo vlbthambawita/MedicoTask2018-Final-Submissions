@@ -1,3 +1,7 @@
+[Paper](http://ceur-ws.org/Vol-2283/MediaEval_18_paper_20.pdf) 
+
+[Presentation](https://www.youtube.com/watch?v=wRcPHkLPZho&list=PLOPRp1vNOG9bTZZECxb-qIZ2SINZ5TdQJ&index=4&t=0s)
+
 
 # Instruction for running method 1 and 2 (Weka projects)
 
@@ -22,8 +26,7 @@ Use 70% of the data for the training and rest of the data for the validation.
 After training a model, please use the supplied test set for the prediction of the model. 
 
 
-
- #Instructions for runing method 3, 4 and 5 (Python3.6 files)
+# Instructions for runing method 3, 4 and 5 (Python3.6 files)
 
 
 
