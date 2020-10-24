@@ -2,6 +2,8 @@
 
 [Paper](http://ceur-ws.org/Vol-2283/MediaEval_18_paper_20.pdf) - Working note paper about this project
 
+[Extended Journal Paper](https://dl.acm.org/doi/abs/10.1145/3386295) - All details about modle implementations and cross-dataset deep analysis using them.
+
 [Presentation](https://www.youtube.com/watch?v=wRcPHkLPZho&list=PLOPRp1vNOG9bTZZECxb-qIZ2SINZ5TdQJ&index=4&t=0s) - Complete presentation
 
 
